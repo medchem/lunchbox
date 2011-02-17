@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/lunchbox123/!svn/ver/2/linux
+END
+readlunchdata
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/lunchbox123/!svn/ver/2/linux/readlunchdata
+END
+windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/lunchbox123/!svn/ver/2/linux/windows.h
+END
+winnls.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/lunchbox123/!svn/ver/2/linux/winnls.h
+END
+lunchbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/lunchbox123/!svn/ver/2/linux/lunchbox.c
+END
+textutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/lunchbox123/!svn/ver/2/linux/textutil.c
+END
+lunchbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/lunchbox123/!svn/ver/2/linux/lunchbox.h
+END
+textutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/lunchbox123/!svn/ver/2/linux/textutil.h
+END
+testlunch
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/lunchbox123/!svn/ver/2/linux/testlunch
+END
+testlunch.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/lunchbox123/!svn/ver/2/linux/testlunch.c
+END
+lunchbase.dat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/lunchbox123/!svn/ver/2/linux/lunchbase.dat
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/lunchbox123/!svn/ver/2/linux/makefile
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/lunchbox123/!svn/ver/2/linux/test.txt
+END
+read_lunch_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/lunchbox123/!svn/ver/2/linux/read_lunch_data.c
+END
