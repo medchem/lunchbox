@@ -1,6 +1,5 @@
 read_lunch_data.exe: textutil.o textutil.h read_lunch_data.c
-	gcc -o read_lunch_data.exe textutil.o read_lunch_data.c \
-		-liconv
+	gcc -o read_lunch_data.exe textutil.o read_lunch_data.c
 testlunch.exe: lunchbox.o textutil.o testlunch.c
 	gcc -o testlunch.exe lunchbox.o textutil.o testlunch.c -liconv
 lunchbox.o: lunchbox.c lunchbox.h
