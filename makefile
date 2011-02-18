@@ -1,3 +1,4 @@
+SHELL=cmd.exe
 .PHONY: all
 all: read_lunch_data.exe testlunch.exe
 read_lunch_data.exe: textutil.o textutil.h read_lunch_data.c
