@@ -113,11 +113,32 @@ struct vendor *access_vendor(struct vendor *first, int n)
 	else
 		return p;
 }
+/*
+struct menu_item{
+	int item_serial;
+	char item_name[NAME_LEN];
+	char vendor[NAME_LEN];
+	int item_price;
+	struct menu_item *next;
+};
 
+struct vendor{
+	int vendor_serial;	
+	char vendor_name[NAME_LEN];
+	char phone[PHONE_LEN];
+	enum category_type category;
+	struct menu_item *first_item;
+	struct vendor *next;
+};
+*/
 struct menu_item *initialize_item(struct vendor *v,
 		char name[], int price)
 {
-	;
+/*
+	struct menu_item *current=malloc(sizeof(struct menu_item));
+	current->vendor_serial=1;
+	*/
+
 }
 struct menu_item *add_item(struct vendor *v,
 		char name[], int price)
